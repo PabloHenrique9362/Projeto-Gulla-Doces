@@ -139,6 +139,7 @@ header .optionsheader {
   word-wrap: break-word;
   hyphens: auto;
   max-width: 900px;
+  padding-bottom: 50px;
 }
 #textosobre img {
   text-align: right;
