@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto GullaDoces" src="./github.md/preview.jpg" width="100%">
+  <img alt="projeto GullaDoces" src="./github.md/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
