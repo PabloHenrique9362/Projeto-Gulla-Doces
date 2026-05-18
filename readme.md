@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Gulla Doces é um cardapio ilutrativo para os clientes.
 
-- [Acesse o projeto finalizado, online](https://github.com/PabloHenrique9362/Projeto-Gulla-Doces)
+- [Acesse o projeto finalizado, online]( https://pablohenrique9362.github.io/Projeto-Gulla-Doces)
 
 
 ## :memo: Licença
